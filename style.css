@@ -9,6 +9,7 @@
     height: 100vh;
     position: relative;
     overflow: hidden;
+    color: #fff;
     background: linear-gradient(to right, #9c27b0, #8ecdff);
 }
 
@@ -131,4 +132,21 @@ nav{
     position: absolute;
     left: 0;
     top: 0;
+}
+.intro{
+    text-align: center;
+    display: block;
+    margin: 50px 0;
+}
+.UCI{
+    margin: 100px 0;
+}
+.NTUST{
+    margin: 100px 0;
+}
+.UCI a{
+    font-size : 30px;
+}
+.NTUST a{
+    font-size: 30px;
 }
